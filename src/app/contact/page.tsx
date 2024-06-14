@@ -26,9 +26,7 @@ function MusicSchoolContactUs() {
           Contact Us
         </h1>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center">
-          We&apos;re here to help with any questions about our courses,
-          programs, or events. Reach out and let us know how we can assist you
-          in your musical journey.
+        We’d love to hear from you! Whether you have questions about our website, need assistance, or simply want to share your musical journey,Reach out to us through any of the following methods, and i’ll get back to you as soon as possible.
         </p>
         <form onSubmit={handleSubmit} className="space-y-4 mt-4">
           <input
