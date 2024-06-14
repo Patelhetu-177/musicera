@@ -5,7 +5,7 @@ function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4">
-            MusicEra is a premier institution dedicated to teaching the art and
+            MusicEra is a premier site dedicated to teaching the art and
             science of music. We nurture talent from the ground up, fostering a
             vibrant community of musicians.
           </p>
