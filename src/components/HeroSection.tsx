@@ -14,8 +14,8 @@ function HeroSection() {
           Melodic Mastery
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-          Welcome to MusicEra, your ultimate destination for mastering
-          the art of music. Whether you're a budding musician or an experienced
+        Welcome to MusicEra, your ultimate destination for mastering
+          the art of music. Whether you&apos;re a budding musician or an experienced
           performer. Discover the joy of
           creating harmony with Melodic Mastery.
         </p>
